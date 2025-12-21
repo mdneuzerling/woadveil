@@ -22,6 +22,8 @@ In order to receive such worship the gods must be seen as active. Deities prefer
 
 Intervention is a delicate matter. The major deities maintain a careful balance of their opposing domains. Every answered prayer for healing tips the scales of life and death, and so The Cycle must impose a corresponding element of death upon the world. Thus, to beg the the gods to preserve the life of a loved one is to also plead for death for a stranger.
 
+Petitionary prayer is a significant act for mortals. Only desperate, reckless, or indifferent people will request the direct intervention of a deity, for they understand that the balancing consequences can be significant. Most prayer is for thanks, guidance, or to form a lasting connection with a deity.
+
 The gods prefer to intervene indirectly through mortal followers. Unfocused divine energy channelled through the mortal will of a cleric is not at risk of upsetting the balance of The Pantheon in the same way that direct intervention would be. In most regions, organised religion tends to be the most powerful way for the gods to influence the world.
 
 ## Sins and morality
