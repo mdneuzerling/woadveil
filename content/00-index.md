@@ -19,9 +19,7 @@ The Wandering Prophet Zazanelle preaches that the world is dead, and that Woadve
 - **[Woadveil](woadveil.html)** - The realm of Woadveil
 - **[The Triune Duchy](the-triune-duchy.html)** - The three duchies
 - **[The Pale Vein](the-pale-vein.html)** - The pale vein region
-- **[History](history.html)** - Historical events and timelines
 - **[Nations](nations.html)** - The Nations and Peoples of Woadveil
 - **[Deities](deities.html)** - Divine beings and their domains
 - **[Magic](magic.html)** - Magical systems and practices
-- **[Cosmology](cosmology.html)** - The structure of the universe
 - **[Bestiary](bestiary.html)** - Creatures and monsters

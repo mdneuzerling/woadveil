@@ -34,9 +34,9 @@ The most profane act that any mortal can take against the major deities is to at
 
 The Pantheon therefore view any attempt to worship only one of their domains as sacrilege. This is the sin above all sins, the act of _diremption_. Should enough misguided worshippers gather in a single place, the Pantheon may even intervene directly in a rare demonstration of their power upon the mortal world. Such an event is recorded in [in the history of The Triune Duchy.](the-triune-duchy.html#the-diremption-of-the-cycle).
 
-## The Gods of Woadveil
+## The gods of Woadveil
 
-### Major Deities
+### The Pantheon
 
 The most powerful deities embody a concept and its antithesis. 
 
@@ -55,7 +55,7 @@ The most powerful deities embody a concept and its antithesis.
 | [Our Grace](#our-grace) | Nature & Civilisation | Oak Leaf |
 | [The Path Before Us](#the-path-before-us) | Change & Stagnation | Hourglass |
 
-### Gods of magic
+### The sanctioned gods of magic
 
 Magic is a terrifying prospect to the gods, being the means to enact their agenda and but also harbouring the potential for destruction. Mortal mages burn the fuel of [noetic residue](magic.html#noetic-residue) in the furnace of their will to change reality itself. To limit the ability of mages, the Pantheon did not subsume the god of magic during the Syncretic Schism. Instead of allowing any one deity to wield the power of magic, they sundered the Moon God into six.
 
@@ -92,7 +92,7 @@ The Pantheon instead suppresses worship of the transgressive gods. Unwilling to 
 
 ## Detailed Descriptions
 
-### Major Deities
+### The Pantheon
 
 :::entity
 <div class="entity-title" id="the-cycle">
@@ -400,7 +400,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 :::
 :::
 
-### Gods of magic
+### The sanctioned gods of magic
 
 :::entity
 <div class="entity-title" id="the-new-moon">
