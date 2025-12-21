@@ -27,11 +27,11 @@ body {
 }
 
 .content-wrapper {
-    background: 
+    background:
         var(--gradient-content);
     border: 8px solid var(--color-primary);
     border-radius: 15px;
-    box-shadow: 
+    box-shadow:
         0 0 20px rgba(0, 0, 0, 0.3),
         inset 0 0 20px rgba(139, 69, 19, 0.1);
     padding: 40px;
@@ -117,9 +117,13 @@ body {
     color: var(--color-text);
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     color: var(--color-primary);
-    border-bottom: 3px solid var(--color-accent);
     padding-bottom: 0.8rem;
     margin-top: 2.5rem;
     margin-bottom: 1.5rem;
@@ -151,7 +155,8 @@ h4 {
     color: var(--color-text);
 }
 
-h5, h6 {
+h5,
+h6 {
     font-size: var(--font-size-h5);
     color: var(--color-text);
 }
@@ -165,7 +170,8 @@ p {
     line-height: 1.8;
 }
 
-ul, ol {
+ul,
+ol {
     margin-left: 2rem;
     margin-bottom: 1.5rem;
 }
@@ -221,7 +227,7 @@ table {
     width: 100%;
     border-collapse: collapse;
     margin: 2rem 0;
-    background: 
+    background:
         var(--gradient-content);
     border-radius: 10px;
     overflow: hidden;
@@ -229,7 +235,8 @@ table {
     border: 3px solid var(--color-primary);
 }
 
-th, td {
+th,
+td {
     padding: 1rem;
     text-align: left;
     border-bottom: 2px solid #8b4513;
@@ -241,15 +248,18 @@ table {
     table-layout: auto;
 }
 
-th:first-child, td:first-child {
+th:first-child,
+td:first-child {
     width: 25%;
 }
 
-th:nth-child(2), td:nth-child(2) {
+th:nth-child(2),
+td:nth-child(2) {
     width: 40%;
 }
 
-th:last-child, td:last-child {
+th:last-child,
+td:last-child {
     width: 35%;
 }
 
@@ -278,12 +288,13 @@ blockquote {
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
-.quote, div.quote {
+.quote,
+div.quote {
     position: relative;
-    background: linear-gradient(135deg, 
-        rgba(255, 255, 255, 0.95) 0%, 
-        rgba(248, 240, 220, 0.98) 50%, 
-        rgba(240, 230, 200, 0.95) 100%);
+    background: linear-gradient(135deg,
+            rgba(255, 255, 255, 0.95) 0%,
+            rgba(248, 240, 220, 0.98) 50%,
+            rgba(240, 230, 200, 0.95) 100%);
     border: 4px solid var(--color-primary);
     border-radius: 20px;
     padding: 2.5rem 3rem;
@@ -293,13 +304,14 @@ blockquote {
     line-height: 1.8;
     color: var(--color-text);
     text-align: center;
-    box-shadow: 
+    box-shadow:
         var(--shadow-xl),
         inset 0 0 30px rgba(218, 165, 32, 0.1);
     overflow: hidden;
 }
 
-.quote::before, div.quote::before {
+.quote::before,
+div.quote::before {
     content: '';
     position: absolute;
     background: linear-gradient(45deg, transparent 30%, rgba(218, 165, 32, 0.2) 30%, rgba(218, 165, 32, 0.2) 70%, transparent 70%);
@@ -311,7 +323,8 @@ blockquote {
     z-index: 1;
 }
 
-.quote::after, div.quote::after {
+.quote::after,
+div.quote::after {
     content: '';
     position: absolute;
     background: linear-gradient(45deg, transparent 30%, rgba(218, 165, 32, 0.2) 30%, rgba(218, 165, 32, 0.2) 70%, transparent 70%);
@@ -323,7 +336,8 @@ blockquote {
     z-index: 1;
 }
 
-.quote p, div.quote p {
+.quote p,
+div.quote p {
     position: relative;
     z-index: 2;
     margin: 0;
@@ -332,7 +346,8 @@ blockquote {
     text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.8);
 }
 
-.quote .attribution, div.quote .attribution {
+.quote .attribution,
+div.quote .attribution {
     margin-top: 1.5rem;
     font-size: var(--font-size-base);
     font-weight: bold;
@@ -344,15 +359,17 @@ blockquote {
     z-index: 2;
 }
 
-.quote .attribution::before, div.quote .attribution::before {
+.quote .attribution::before,
+div.quote .attribution::before {
     content: '— ';
     color: var(--color-accent);
     font-weight: bold;
 }
 
-.quote:hover, div.quote:hover {
+.quote:hover,
+div.quote:hover {
     transform: translateY(-3px);
-    box-shadow: 
+    box-shadow:
         var(--shadow-2xl),
         inset 0 0 40px rgba(218, 165, 32, 0.15);
     transition: all 0.3s ease;
@@ -366,5 +383,6 @@ footer {
     border-top: 1px solid #8b4513;
     color: #654321;
     font-size: 0.9rem;
-    margin-left: 280px; /* Offset to account for sidebar width */
+    margin-left: 280px;
+    /* Offset to account for sidebar width */
 }

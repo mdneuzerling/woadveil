@@ -1,8 +1,8 @@
 ---
-title: "Gleamveil"
+title: "Magic"
 ---
 
-# The Gleam
+# Magic
 
 Sit sociis dignissim luctus sodales! Natoque inceptos tempus, malesuada vel.
 Quisque curae placerat habitasse a arcu torquent, phasellus magnis: convallis
@@ -32,3 +32,11 @@ Sit scelerisque phasellus sociis nibh consequat, integer platea maecenas
 lectus. Class quis, venenatis natoque ullamcorper neque eleifend: malesuada
 ante dui himenaeos cursus. Magna habitant mus – est pulvinar dui lacinia
 lectus!
+
+## Noetic residue
+
+Elit erat euismod euismod ultricies vulputate sagittis class. Pulvinar
+sociosqu tempus feugiat molestie aliquam mattis etiam. Etiam nibh tellus
+inceptos commodo mollis diam non purus senectus; vestibulum eget. Cursus in
+magna diam suscipit vulputate – congue phasellus ante netus non nascetur
+himenaeos, lacinia donec netus erat tortor nibh.

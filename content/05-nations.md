@@ -1,8 +1,8 @@
 ---
-title: "Magic"
+title: "The Nations and Peoples of Woadveil"
 ---
 
-# Magic
+# The Nations of Woadveil
 
 Sit sociis dignissim luctus sodales! Natoque inceptos tempus, malesuada vel.
 Quisque curae placerat habitasse a arcu torquent, phasellus magnis: convallis

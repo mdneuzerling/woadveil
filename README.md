@@ -1,4 +1,4 @@
-# Gleamveil
+# Woadveil
 
 This is a reference for my personal RPG setting.
 
