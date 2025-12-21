@@ -10,35 +10,41 @@ Where before many gods of life and healing would war with the many gods of death
 
 Only a few rebellious gods survived the Schism, minor divine beings who oppose the sanctified harmony of the Pantheon. And the gods of magic, purposefully kept divided and subjugated by the major deities so that no one god can wholly seize the power to manipulate reality.
 
-They Who Know and Know Not does not forbid the research of pre-Schism history. Nevertheless, knowledge of this time is scarce. The scholar-priests of the Athenaeum-Sanctum have been unable to determine _when_ the Schism occurred. Ruins of temples to unknown deities have been found dating to thousands of years ago, yet, some village elders claim to recall when their church, once that of a singular God of Healing, was reconsecrated to The Cycle. When pressed further, these elders cannot remember the name of the deity they were raised to worship.
+Aporos does not forbid the research of pre-Schism history. Nevertheless, knowledge of this time is scarce. The scholar-priests of the Athenaeum-Sanctum have been unable to determine _when_ the Schism occurred. Ruins of temples to unknown deities have been found dating to thousands of years ago, yet, some village elders claim to recall when their church, once that of a singular God of Healing, was reconsecrated to The Cycle. When pressed further, these elders cannot remember the name of the deity they were raised to worship.
 
 ## Religious devotion
 
-\\TODO how gods receive power from human worship
+Gods are the creations of sapient beings. They are the natural occurence of [noetic residue concentrated by will](magic.html#the-formation-of-gods) by the prayers of countless mortals. Worship and faith are the precursors of divine power.
 
-\\TODO how gods answer prayers. Think of a sick person praying to The Cycle for healing. Why would the god respond when both life and death are in their domain? Must think of balance, and of the desire for mortal worship, but less detail is better: gods are ineffable and unpredictable and I should not structure them as vending machines for divine goodies.
+The nature of worship is such that certain affectations are given power through the influence they have over sapient minds. Runes carved into an altar, prayers sung in rhyme, or even blood-letting rituals in certain nations --- all of these can be used to channel belief into the divine realm. Some nations funnel resources into glorious temples with gilded altars in the belief that wealth empowers prayer. There is nothing inherently mystical about rituals and architecture, but they serve as focii for the mortal mind because they are believed to hold power.
 
-\\TODO In practice, diremption could be avoided by acknowledging The Cycle as having dominion over both life and death, and then praying for healing. It's the recognition that both are in one that matters.
+In order to receive such worship the gods must be seen as active. Deities prefer not to directly impose the full brunt of their will upon the world, for the mortal realm is fragile under the hands of divine power. But they do act through their churches and mortal followers, and can occasionally intervene in subtle, careful ways. Quo may guide the dice of a gambler, shifting reality ever so slightly, or The Chains That Bind may weaken the shackles of a convicted murderer so that he might escape the hangman's noose.
+
+Intervention is a delicate matter. The major deities maintain a careful balance of their opposing domains. Every answered prayer for healing tips the scales of life and death, and so The Cycle must impose a corresponding element of death upon the world. Thus, to beg the the gods to preserve the life of a loved one is to also plead for death for a stranger.
+
+The gods prefer to intervene indirectly through mortal followers. Unfocused divine energy channelled through the mortal will of a cleric is not at risk of upsetting the balance of The Pantheon in the same way that direct intervention would be. In most regions, organised religion tends to be the most powerful way for the gods to influence the world.
 
 ## Sins and morality
 
-\\TODO describe the relationship, or lack thereof, between gods and human morality. Emphasise that gods only consider an act to be an affront to them if it challenges their status or power. They do not care for mere human matters such as murder or theft. Those are the ethics of people, not the divine. The God of Life and Death does not care how that Death occurs.
+The gods do not care for the petty concerns of morality. Murder, theft, betrayal --- these are all a part of the Pantheon's purview. Why should the God of Life and Death care whether death is by illness or by a dagger in the back? Such matters are for the ethics of people, not the divine. Even blasphemy is of no concern, for those who scorn a god must still acknowledge it, granting divine focus.
 
-### Heresy
+The major deities care only for acts that challenge their status. The gods ultimately derive their power from mortals, and in sufficient numbers mortals can alter the composition of the divine. The Pantheon forbids the worship of the transgressive gods --- minor deities whose domains the Pantheon could not absorb or destroy during the Syncretic Schism. Such worship is heresy as it risks strengthening the divine power of gods who challenge the divine order.
 
-Heresy is any act that challenges the authority or power of a major deity. This includes the worship of a transgressive god. \\TODO
+It is rare that the Pantheon will intervene directly, however. Such is the power of the major deities that placing their divine hand upon the world risks destruction. The gods prefer to act through their churches and mortal followers where possible, saving direct intervention for only the most serious of threats. 
 
 ### The ultimate sin of diremption
 
-The most profane act that any mortal can take against the major deities is to attempt to split them into two. The strength and authority of the pantheon is due to their contradictory domains, for each god is given sovereignty over a concept of existence and its antithesis. Should enough mortal devotion be directed to only one half of a major deity's domain, then that god could be weakened or even sundered into two.
+The most profane act that any mortal can take against the major deities is to attempt to split them into two. The strength and authority of the Pantheon is due to their contradictory domains, for each god is given sovereignty over a concept of existence and its antithesis. Should enough mortal devotion be directed to only one half of a major deity's domain, then that god could be weakened or even sundered into two.
 
 The Pantheon therefore view any attempt to worship only one of their domains as sacrilege. This is the sin above all sins, the act of _diremption_. Should enough misguided worshippers gather in a single place, the Pantheon may even intervene directly in a rare demonstration of their power upon the mortal world. Such an event is recorded in [in the history of The Triune Duchy.](the-triune-duchy.html#the-diremption-of-the-cycle).
+
+Priests and lay people will take great care to always acknowledge both aspects of a major diety in their devotions. The artist who beseeches The Herald of Flame for inspiration must first acknowledge the deity's role as a destructive force, for to separate creation and destruction is to challenge the divine order. 
 
 ## The gods of Woadveil
 
 ### The Pantheon
 
-The most powerful deities embody a concept and its antithesis. 
+The most powerful deities embody a concept and its antithesis. Even the smallest of villages in the Veil will have an altar to The Cycle in a makeshift church in the centre of town, and larger cities will keep space for twelve grand temples.
 
 | Name | Domain | Symbol |
 |------|--------|--------|
@@ -48,7 +54,7 @@ The most powerful deities embody a concept and its antithesis.
 | [Our Lady of Many Faces](#our-lady-of-many-faces) | Truth & Deception | Black Mask |
 | [The Herald of Flame](#the-herald-of-flame) | Creation & Destruction |  |
 | [The Chains That Bind](#the-chains-that-bind) | Freedom & Duty |  |
-| [They Who Know and Know Not](#they-who-know-and-know-not) | Knowledge & Ignorance |  |
+| [Aporos](#aporos) | Knowledge & Ignorance |  |
 | [The Twin Flame](#the-twin-flame) | Love & Hatred |  |
 | [Quo](#quo) | Prosperity & Loss |  |
 | [Tomorrow's Promise](#tomorrows-promise) | Hope & Despair |  |
@@ -59,9 +65,9 @@ The most powerful deities embody a concept and its antithesis.
 
 Magic is a terrifying prospect to the gods, being the means to enact their agenda and but also harbouring the potential for destruction. Mortal mages burn the fuel of [noetic residue](magic.html#noetic-residue) in the furnace of their will to change reality itself. To limit the ability of mages, the Pantheon did not subsume the god of magic during the Syncretic Schism. Instead of allowing any one deity to wield the power of magic, they sundered the Moon God into six.
 
-Four of the aspects of magic were sanctioned by the Pantheon, and the other two --- that of necromancy and divination --- were to be erased from existence. The Eclipsed Moon of necromancy stood in opposition to The Cycle, and the Halo Moon of Divination was an affront to They Who Know and Know Not. Yet the Pantheon, despite their new might, could not unravel these aspects from creation. Their very nature was somehow fundamental to reality, and to the mortals on whom the major deities depended upon for worship.
+Four of the aspects of magic were sanctioned by the Pantheon, and the other two --- that of necromancy and divination --- were to be erased from existence. The Eclipsed Moon of necromancy stood in opposition to The Cycle, and the Halo Moon of Divination was an affront to Aporos, for the Athenaeum-Sanctum decries all knowledge won without teaching,
 
-\\TODO Need to explain why divination is an issue. It's almost like "unearned knowledge" but need to make it clear that that's the Pantheon's view, and isn't necessarily correct.
+Yet the Pantheon, despite their new might, could not unravel these aspects from creation. Their very nature was somehow fundamental to reality, and to the mortals on whom the major deities depended upon for worship.
 
 | Name | Domain | Symbol |
 |------|--------|--------|
@@ -72,19 +78,15 @@ Four of the aspects of magic were sanctioned by the Pantheon, and the other two 
 
 ### The transgressive gods
 
-\\TODO make it clear that "transgressive" is a determination made by the Pantheon. Gods can lie.
-
 These deities stand in opposition to the major pantheon, not because their domains are necessarily evil, but because they are conceptually incompatible with that of a major god. Undeath cannot coexist within the balance of Life & Death, and so The Awakened is a threat to The Cycle. 
 
-These gods persist because there will always be worshippers who seek them out. There will always be a grieving mage who will turn to The Halo Moon out of desperation for a departed loved one. Perhaps this is why these gods survived the Syncretic Schism, for they appeal to a part of the human soul that the Pantheon could not suppress.
+These gods persist because there will always be worshippers who seek them out. There will always be a grieving mage who will turn to The Halo Moon out of desperation for a departed loved one. Perhaps this is why these gods survived the Syncretic Schism, for they appeal to a part of the human soul that the Pantheon could not suppress. They are as natural to the world as the domains of the major gods, but any challenge to the divine order cannot be tolerated.
 
 The Pantheon instead suppresses worship of the transgressive gods. Unwilling to act directly, for their immense power could break the skeins of reality, and knowing that these minor gods can never truly be erased from existence, the major deities instead rely on their mortal followers to enforce the prohibition against worshipping these beings.
 
-\\TODO Need to make clear the distinction between The Awakened and The Eclipsed Moon. Not all undead are those raised by mages.
-
 | Name | Domain | Symbol |
 |------|--------|--------|
-| [The Awakened](#the-awakened) | Undeath | Skull and Crossbones |
+| [The Awakened](#the-awakened) | Undeath | Skull |
 | [The Eclipsed Moon](#the-eclipsed-moon) | Magic (necromancy) | Red circle |
 | [The Halo Moon](#the-halo-moon) | Magic (divination) | White circle with white interior encircled by a white ring |
 | [The Untimely](#the-untimely) | Temporal Manipulation |  |
@@ -202,13 +204,13 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 :::entity
 <div class="entity-title" id="they-who-know-and-know-not">
-<p><img src="images/deities/icons/placeholder.png" class="entity-icon" alt="They Who Know and Know Not Icon"> They Who Know and Know Not</p>
+<p><img src="images/deities/icons/placeholder.png" class="entity-icon" alt="Aporos Icon"> Aporos</p>
 
 <div class="entity-subtitle">Knowledge & Ignorance</div>
 </div>
 
 :::entity-content-left
-<img src="images/deities/images/placeholder.png" class="entity-image entity-image-left" alt="They Who Know and Know Not Image">
+<img src="images/deities/images/placeholder.png" class="entity-image entity-image-left" alt="Aporos Image">
 
 :::entity-text
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
