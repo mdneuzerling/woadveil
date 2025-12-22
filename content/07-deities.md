@@ -1,8 +1,12 @@
 ---
-title: "The Gods of Woadveil"
+title: "Deities and the divine"
 ---
 
-# The Gods of Woadveil
+::: quote
+No, no. Save your protests. You will tell me that you were only following the light of your god. You will plead for your life, tears in your eyes as you claim the truth of your sermons. You will beg for mercy and claim your heretical words were a gift from God. Do not bother. I believe you. And I do not care.
+
+<div class="attribution">Mediator-Priest Girolam, paladin of The Chains that Bind</div>
+:::
 
 Where once life warred with death, knowledge with ignorance, and creation with destruction, the Pantheon arose to bring order to the divine. From the multitude of individual gods came twelve unified deities in whom all sanctioned concepts could exist in harmony. The major deities are the victors of this upheaval, called _the Syncretic Schism_. 
 
@@ -18,7 +22,7 @@ Gods are the creations of sapient beings. They are the natural occurence of [noe
 
 The nature of worship is such that certain affectations are given power through the influence they have over sapient minds. Runes carved into an altar, prayers sung in rhyme, or even blood-letting rituals in certain nations --- all of these can be used to channel belief into the divine realm. Some nations funnel resources into glorious temples with gilded altars in the belief that wealth empowers prayer. There is nothing inherently mystical about rituals and architecture, but they serve as focii for the mortal mind because they are believed to hold power.
 
-In order to receive such worship the gods must be seen as active. Deities prefer not to directly impose the full brunt of their will upon the world, for the mortal realm is fragile under the hands of divine power. But they do act through their churches and mortal followers, and can occasionally intervene in subtle, careful ways. Quo may guide the dice of a gambler, shifting reality ever so slightly, or The Chains That Bind may weaken the shackles of a convicted murderer so that he might escape the hangman's noose.
+In order to receive such worship the gods must be seen as active. Deities prefer not to directly impose the full brunt of their will upon the world, for the mortal realm is fragile under the hands of divine power, and divine presence can shatter the film between reality and [the Noetic Wasterealm](magic.html#the-noetic-wasterealm). But they do act through their churches and mortal followers, and can occasionally intervene in subtle, careful ways. Quo may guide the dice of a gambler, shifting reality ever so slightly, or The Chains That Bind may weaken the shackles of a convicted murderer so that he might escape the hangman's noose.
 
 Intervention is a delicate matter. The major deities maintain a careful balance of their opposing domains. Every answered prayer for healing tips the scales of life and death, and so The Cycle must impose a corresponding element of death upon the world. Thus, to beg the the gods to preserve the life of a loved one is to also plead for death for a stranger.
 
@@ -30,19 +34,19 @@ The gods prefer to intervene indirectly through mortal followers. Unfocused divi
 
 The gods do not care for the petty concerns of morality. Murder, theft, betrayal --- these are all a part of the Pantheon's purview. Why should the God of Life and Death care whether death is by illness or by a dagger in the back? Such matters are for the ethics of people, not the divine. Even blasphemy is of no concern, for those who scorn a god must still acknowledge it, granting divine focus.
 
-The major deities care only for acts that challenge their status. The gods ultimately derive their power from mortals, and in sufficient numbers mortals can alter the composition of the divine. The Pantheon forbids the worship of the transgressive gods --- minor deities whose domains the Pantheon could not absorb or destroy during the Syncretic Schism. Such worship is heresy as it risks strengthening the divine power of gods who challenge the divine order.
+The major deities care only for acts that challenge their status. The gods ultimately derive their power from mortals, and in sufficient numbers mortals can alter the composition of the divine. Certain deities represent domains that challenge the divine status quo --- domains the Pantheon could not absorb during the Syncretic Schism. The Pantheon declares these gods _transgressive_ and forbids their worship as heresy that challenges the divine order.
 
-It is rare that the Pantheon will intervene directly, however. Such is the power of the major deities that placing their divine hand upon the world risks destruction. The gods prefer to act through their churches and mortal followers where possible, saving direct intervention for only the most serious of threats. 
+It is rare that the Pantheon will intervene directly to prevent such worship, however. Such is the power of the major deities that placing their divine hand upon the world risks an ingress of raw [noetic residue](magic.html#noetic-residue) upon reality. The gods prefer to act through their churches and mortal followers where possible, saving direct intervention for only the most serious of threats. 
 
 ### The ultimate sin of diremption
 
 The most profane act that any mortal can take against the major deities is to attempt to split them into two. The strength and authority of the Pantheon is due to their contradictory domains, for each god is given sovereignty over a concept of existence and its antithesis. Should enough mortal devotion be directed to only one half of a major deity's domain, then that god could be weakened or even sundered into two.
 
-The Pantheon therefore view any attempt to worship only one of their domains as sacrilege. This is the sin above all sins, the act of _diremption_. Should enough misguided worshippers gather in a single place, the Pantheon may even intervene directly in a rare demonstration of their power upon the mortal world. Such an event is recorded in [in the history of The Triune Duchy.](the-triune-duchy.html#the-diremption-of-the-cycle).
+The Pantheon therefore view any attempt to worship only one of their domains as sacrilege. This is the sin above all sins, the act of _diremption_. Should enough misguided worshippers gather in a single place, the Pantheon may even intervene directly in a rare demonstration of their power upon the mortal world. Such an event is recorded in [in the history of The Triune Duchy](the-triune-duchy.html#the-diremption-of-the-cycle).
 
 Priests and lay people will take great care to always acknowledge both aspects of a major diety in their devotions. The artist who beseeches The Herald of Flame for inspiration must first acknowledge the deity's role as a destructive force, for to separate creation and destruction is to challenge the divine order. 
 
-## The gods of Woadveil
+## The divine landscape
 
 ### The Pantheon
 
@@ -86,6 +90,8 @@ These gods persist because there will always be worshippers who seek them out. T
 
 The Pantheon instead suppresses worship of the transgressive gods. Unwilling to act directly, for their immense power could break the skeins of reality, and knowing that these minor gods can never truly be erased from existence, the major deities instead rely on their mortal followers to enforce the prohibition against worshipping these beings.
 
+Undeath is a persistent force in Woadveil. Wayward mages who pray to The Eclipsed Moon can glimpse the secrets of necromancy, but this is not the only means of bringing the dead back into the world of the living. The undead are a natural phenomenon and their patron deity is The Awakened, who watches over every shambling ghoul.
+
 | Name | Domain | Symbol |
 |------|--------|--------|
 | [The Awakened](#the-awakened) | Undeath | Skull |
@@ -94,9 +100,7 @@ The Pantheon instead suppresses worship of the transgressive gods. Unwilling to 
 | [The Untimely](#the-untimely) | Temporal Manipulation |  |
 | [The Unravelling Thread](#the-unravelling-thread) | Void |  |
 
-## Detailed Descriptions
-
-### The Pantheon
+## The gods of Woadveil
 
 :::entity
 <div class="entity-title" id="the-cycle">
@@ -111,7 +115,6 @@ The Pantheon instead suppresses worship of the transgressive gods. Unwilling to 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-:::
 :::
 :::
 :::
@@ -312,8 +315,6 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 :::
 :::
 
-### The transgressive gods
-
 :::entity
 <div class="entity-title" id="the-awakened">
 <p><img src="images/deities/icons/placeholder.png" class="entity-icon" alt="The Awakened Icon"> The Awakened</p>
@@ -403,8 +404,6 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 :::
 :::
 :::
-
-### The sanctioned gods of magic
 
 :::entity
 <div class="entity-title" id="the-new-moon">
