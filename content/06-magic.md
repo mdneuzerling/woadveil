@@ -24,7 +24,7 @@ Beneath the pretension of the Lunar-Sanctum, all acts of magic are the same unde
 
 Noetic residue is filth, and its combustion leaves a stain upon a mage. The cost of magic is _noetic sickness_, the lingering maladies that remain after the burning of effluence. 
 
-The initial effects are psychological --- stray thoughts that are not the mage's own, or new affectations and mannerisms. These fade in minutes. But should the mage continue to burn noetic residue before recovering, then the physical symptoms begin. The mage experience tremors, vacant stares, and rapid shifts in temperature. 
+The initial effects are psychological --- stray thoughts that are not the mage's own, or new affectations and mannerisms. These fade in minutes. But should the mage continue to burn noetic residue before recovering, then the physical symptoms begin. The mage experiences tremors, vacant stares, and rapid shifts in temperature. 
 
 For the most part, noetic sickness is short-term and manageable. The psyche reasserts itself against the fumes of channelling. As mages hone their craft, they are able to burn greater amounts of noetic residue without escalating symptoms. True danger occurs when a mage, usually driven by desperation, burns beyond their limits. This is when noetic sickness can be devastating.
 
