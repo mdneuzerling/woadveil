@@ -20,6 +20,20 @@ Others can burn noetic waste without the rigour of academia. Clerics of religiou
 
 Beneath the pretension of the Lunar-Sanctum, all acts of magic are the same underlying process --- the combustion of thought-waste in the focused will of a sapient being. And will is the key, for noetic waste is abundant. It is only the mage's ability to tap into that well that determines their ability to alter reality.
 
+## Noetic sickness
+
+Noetic residue is filth, and its combustion leaves a stain upon a mage. The cost of magic is _noetic sickness_, the lingering maladies that remain after the burning of effluence. 
+
+The initial effects are psychological --- stray thoughts that are not the mage's own, or new affectations and mannerisms. These fade in minutes. But should the mage continue to burn noetic residue before recovering, then the physical symptoms begin. The mage experience tremors, vacant stares, and rapid shifts in temperature. 
+
+For the most part, noetic sickness is short-term and manageable. The psyche reasserts itself against the fumes of channelling. As mages hone their craft, they are able to burn greater amounts of noetic residue without escalating symptoms. True danger occurs when a mage, usually driven by desperation, burns beyond their limits. This is when noetic sickness can be devastating.
+
+The mage can find themselves having forgotten their native language, instead speaking the tongue of a land they've never visited. Colours could be replaced with sounds, or the mage could feel searing pain whenever they see a wild animal. The effects are unpredictable and occasionally permanent.
+
+Mages of the Lunar-Sanctum are taught to respect the limits of their abilities, and never to burn more effluence than their skills permit.
+
+
+
 ## The Noetic Wasterealm
 
 Noetic residue doesn't exist within the material world, but gathers instead within the _Noetic Wasterealm_, often called _The Waste_. There is no concept of distance in this realm, and it is meaningless to talk about the "density" of noetic residue. A mage in a desert far from civilisation has as much access to noetic residue as they would in the middle of a crowded city.
@@ -41,18 +55,6 @@ The effects may not be noticed immediately. Over days or weeks the person's sens
 This cannot be undone. Amalgams cannot be healed because there is nothing to heal — the person is not broken, they are someone else. Potentially hundreds or even thousands of someone elses.
 
 Yet there is a boon to be gained from such a tragedy, for amalgams are said to hold knowledge lost to time.
-
-## Noetic sickness
-
-Noetic residue is filth, and its combustion leaves a stain upon a mage. The cost of magic is _noetic sickness_, the lingering maladies that remain after the burning of effluence. 
-
-The initial effects are psychological --- stray thoughts that are not the mage's own, or new affectations and mannerisms. These fade in minutes. But should the mage continue to burn noetic residue before recovering, then the physical symptoms begin. The mage experience tremors, vacant stares, and rapid shifts in temperature. 
-
-For the most part, noetic sickness is short-term and manageable. The psyche reasserts itself against the fumes of channelling. As mages hone their craft, they are able to burn greater amounts of noetic residue without escalating symptoms. In moments of true desperation, mages can reach for magic beyond their aptitude. This is when noetic sickness can be devastating.
-
-The mage can find themselves having forgotten their native language, instead speaking the tongue of a land they've never visited. Colours could be replaced with sounds, or the mage could feel searing pain whenever they see a wild animal. The effects are unpredictable and occasionally permanent.
-
-Mages of the Lunar-Sanctum are taught to respect the limits of their abilities, and never to reach beyond the 
 
 ## The formation of gods
 
