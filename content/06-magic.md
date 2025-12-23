@@ -42,6 +42,18 @@ This cannot be undone. Amalgams cannot be healed because there is nothing to hea
 
 Yet there is a boon to be gained from such a tragedy, for amalgams are said to hold knowledge lost to time.
 
+## Noetic sickness
+
+Noetic residue is filth, and its combustion leaves a stain upon a mage. The cost of magic is _noetic sickness_, the lingering maladies that remain after the burning of effluence. 
+
+The initial effects are psychological --- stray thoughts that are not the mage's own, or new affectations and mannerisms. These fade in minutes. But should the mage continue to burn noetic residue before recovering, then the physical symptoms begin. The mage experience tremors, vacant stares, and rapid shifts in temperature. 
+
+For the most part, noetic sickness is short-term and manageable. The psyche reasserts itself against the fumes of channelling. As mages hone their craft, they are able to burn greater amounts of noetic residue without escalating symptoms. In moments of true desperation, mages can reach for magic beyond their aptitude. This is when noetic sickness can be devastating.
+
+The mage can find themselves having forgotten their native language, instead speaking the tongue of a land they've never visited. Colours could be replaced with sounds, or the mage could feel searing pain whenever they see a wild animal. The effects are unpredictable and occasionally permanent.
+
+Mages of the Lunar-Sanctum are taught to respect the limits of their abilities, and never to reach beyond the 
+
 ## The formation of gods
 
 Noetic residue is thought-waste, and carries with it only a lingering sense of the thought that bore it. But just as mages draw on noetic waste to alter reality, the Noetic Wasterealm can be guided by sapient thought. _Worship_ is a powerful lens that can focus the effluence of the Waste into coherent concepts of great power. These are the beings that mortals call [deities](deities.html).
