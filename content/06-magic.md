@@ -30,9 +30,7 @@ For the most part, noetic sickness is short-term and manageable. The psyche reas
 
 The mage can find themselves having forgotten their native language, instead speaking the tongue of a land they've never visited. Colours could be replaced with sounds, or the mage could feel searing pain whenever they see a wild animal. The effects are unpredictable and occasionally permanent.
 
-Mages of the Lunar-Sanctum are taught to respect the limits of their abilities, and never to burn more effluence than their skills permit.
-
-
+Mages of the Lunar-Sanctum and clerics trained in temples are taught to respect the limits of their abilities, and never to burn more effluence than their skills permit. Self-taught mages and those born with the ability to channel often learn these dangers through bitter experience.
 
 ## The Noetic Wasterealm
 
