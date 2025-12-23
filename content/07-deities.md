@@ -3,7 +3,7 @@ title: "Deities and the divine"
 ---
 
 ::: quote
-No, no. Save your protests. You will tell me that you were only following the light of your god. You will plead for your life, tears in your eyes as you claim the truth of your sermons. You will beg for mercy and claim your heretical words were a gift from God. Do not bother. I believe you. And I do not care.
+No, no. Save your protests. You will tell me that you were only following the light of your god. You will plead for your life, tears in your eyes as you claim the truth of your sermons. You will beg for mercy and claim your heretical words were sacred. Do not bother. I believe you. And I do not care.
 
 <div class="attribution">Mediator-Priest Girolam, paladin of The Chains that Bind</div>
 :::
