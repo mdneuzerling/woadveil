@@ -115,6 +115,8 @@ The head of the Pantheon with dominion over births, deaths, childcare, healing, 
 Every celebration of a life and commemoration of death honours The Cycle. She is worshipped by barber surgeons and assassins alike, who recognise her as the arbiter of mortality.
 
 In The Triune Duchy The Church of The Cycle is wealthier than any other due to its exactions on healing and burial rites. Sick nobles turn to the balance-priests of The Cycle for aid, and in desperation offer generous bequests. For this reason the Church controls more land than any noble apart from the dukes themselves.
+
+Her pigment is terra rosa. Balance-priests of The Cycle wear round clothing of terra rosa with gold embellishments. Her holy days are the equinoxes. Worshippers in The Pale Vein honour The Cycle on birthdays as a celebration of life and a reminder of mortality.
 :::
 :::
 :::
@@ -129,7 +131,9 @@ In The Triune Duchy The Church of The Cycle is wealthier than any other due to i
 :::entity-text
 In the courtrooms of the Triune Duchy, the family of the victim pray for justice. In the dungeon cells below, the accused prays for exoneration. Both prayers are considered by Mercy, the god of order, rebellion, justice, revolts, governance, and anarchy. Older texts refer to him as "The Son", although it's not clear to whom this relationship is held, for gods sire no children.
 
-A kind god, or as benevolent a deity can be given their parasitic nature, he loves the accused and aggrieved alike. He is equally worshipped by acts of considered justice and impulsive vengeance, deference to one's superiors and challenge of established rule. In The Triune Duchy his magistrate-priests administers the courts, charging nobles for the settlement of disputes and the administration of justice on their behalf.
+A kind god, or as benevolent a deity can be given their parasitic nature, he loves the accused and aggrieved alike. He is equally worshipped by acts of considered justice and impulsive vengeance, deference to one's superiors and challenge of established rule. In The Triune Duchy his magistrate-priests administer the courts, charging nobles for the settlement of disputes and the administration of justice on their behalf.
+
+Her pigment is terra rosa. Balance-priests of The Cycle wear clothing with rounded shapes and dyed with terra rosa, and with gold embellishments. Her holy days are the solstices. Worshippers in The Pale Vein honour The Cycle on birthdays as a celebration of life and a reminder of mortality.
 :::
 :::
 :::
@@ -142,9 +146,11 @@ A kind god, or as benevolent a deity can be given their parasitic nature, he lov
 
 :::entity-content-left
 :::entity-text
-Leaders of every nation and tribe pray for the conquest of their foes and protection from approaching armies. The Fractured God hears prayers from all sides. Imagined in every nation as a warrior bearing the colours of the ruling family, the Fractured God is so-called for its incoherent image. At once a single entity and a thousand tribal gods, this deity has dominion over military matters, as well as protection of home and hearth.
+Leaders of every nation and tribe pray for the conquest of their foes and protection from approaching armies. The Fractured God hears prayers from all sides. Imagined in every nation as a warrior bearing the vestments of the warrior class, the Fractured God is so-called for its incoherent image. At once a single entity and a thousand tribal gods, this deity has dominion over military matters, as well as protection of home and hearth.
 
 Honoured by military discipline, petty land grabs and locked doors, The Fractured God is frequently invoked by those marching into danger. In The Triune Duchy its battle-priests train and minister the armies of the realm, and exacts fees from the nobility in exchange for this religious service.
+
+Their pigment is raw umber, but this is the only constant across the various depictions of The Fractured God. Each nation and tribe will interpret the deity as one of their own, with raw umber set against the garments and colours of that group's warriors. While some acknowledge the fractured nature of the deity, it's also common for the god to take on regional names. In The Pale Vein, warriors each wear a small worm-ivory carving of The Fractured God tied to their clothes to recognise their role as defenders of the tribe. 
 :::
 :::
 :::
@@ -163,6 +169,8 @@ She sanctifies the signing of contracts and rejoices in their breaking. She is r
 Her church in The Triune Duchy plays the role of a formal witness in the religious affairs of other deities. Her witness-priests will make an official record of a wedding ceremony of The Twin Flame, or hear testimony in a court of Mercy.
 
 A witness-priest may also process a formal renunciation of an alliance or the forsaking of a trade agreement. There is no judgment of the oath-breaker in the eyes of Persona, for truth and deception are alike in her domain, but all broken oaths must be lodged in the record halls of the Church.
+
+Her pigment is ivory black, in recognition of the ink used to record truths and lies. In The Pale Vein, semi-nomadic tribes are limited in what books they can carry, and written records are reserved for only the most important histories. Instead, her worship is through the act of passing down stories orally.
 :::
 :::
 :::
